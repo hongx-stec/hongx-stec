@@ -2,7 +2,7 @@
 - 👀 I’m interested in make some tools by software to let me easy.
 - 🌱 I’m currently learning python, rust and all interested thing.
 - 💞️ I’m looking to collaborate on having same topic
-- 📫 How to reach me: xiaoh@stec-cn.com
+- 📫 How to reach me: hongx@stec-cn.com
 - and i am a old new guy, maybe i will do something here when i was free.
 
 <!---
